@@ -3,7 +3,6 @@
 ## Overview
 This repository contains an improved PPO (Proximal Policy Optimization) agent for a basketball shooting simulator. The improvements include:
 
-Uploading Cool_Shots Video.mp4…
 ### Key Enhancements:
 1. **Enhanced Reward Shaping**: Instead of binary rewards (-10/+100), the agent now gets:
    - 100 reward for scoring
